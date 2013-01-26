@@ -1,0 +1,1 @@
+ruby album_install_client.rb -L E:\\DCIM\\100GEDSC
